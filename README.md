@@ -6,7 +6,7 @@ Now Connect to Wifi With your ESP8266 without using AT Commands
 Creating IOT Based Projects Made Easy By - PolyESP8266 (Made by Pawan Kumar)
 ===========================================================================================
 Instructions to use:
-# METHOD 1 (USING ARDUINO BOARD) [MAKESURE TO INSTALL ESP_8266 library on your PC before proceeding. Seek google for how to install it]
+METHOD 1 (USING ARDUINO BOARD) [MAKESURE TO INSTALL ESP_8266 library on your PC before proceeding. Seek google for how to install it]
 --------------------------------
 Step 1. Connect the Arduino Board to PC
 Step 2. Upload empty void setup and void loop.
