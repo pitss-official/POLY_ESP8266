@@ -5,12 +5,12 @@
 >Now Connect to Wifi With your ESP8266 without using AT Commands
 ### Creating IOT Based Projects Made Easy By - PolyESP8266 (Made by Pawan Kumar)
 ## Instructions to use:
-##### METHOD 1 (USING ESP8266 FLASHER)
+##### METHOD 1 (USING ESP8266 FLASHER and Arduino Board)
 - Step 1. Connect the Arduino Board to PC
 - Step 2. Upload empty void setup and void loop.
 - Step 3. Choose your ESP-8266 from boards selection
 - Step 3. Connect ESP8266 RX to RX and TX to TX pin on Arduino and GPIO 0 to GND, VCC to 3.3 and GND to GND pins.
-- Step 4. Upload Firmware.ino to your ESP8266.
+- Step 4. Upload Firmware.bin to your ESP8266 using ESP8266 Flash Tool.
 - thats it. You are ready to go with this firmware.
 ### How to use your ESP8266 for IOT Projects without AT Commands?
 - Open your serial monitor with 9600 rate.
