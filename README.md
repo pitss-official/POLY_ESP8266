@@ -63,4 +63,4 @@
 - For Example programs refer examples folder
 
 ### Stuck somewhere? Feel free to contact 
-## support@megaminds.tech
+## pawandubey@megaminds.club
