@@ -19,7 +19,7 @@
 - It also has a feature to store and connect to the last connected Wirless Address.
 ##### Here are few commands that you can use in your projects.
 ###### Check the Status of the device
-- STATUS=;
+- STATE=;
 - [THE DEVICE WILL RESPOND @:RET=OK;]
 ###### Connect to Wifi eg. AndroidAP having password 123456789
 - SSID=AndroidAP;
